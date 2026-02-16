@@ -4,9 +4,10 @@ Generate natural language descriptions for images using Sequence-to-Sequence arc
 
 ## 🚀 Live Demo
 
-Try it live: **[HuggingFace Space](YOUR_LINK)**
+Try it live: **[HuggingFace Space](https://huggingface.co/spaces/ImranAliNaeem/image-captioning-seq2seq)**
 
-![Demo](images/demo_screenshot.png)
+![Demo](<img width="1294" height="541" alt="image" src="https://github.com/user-attachments/assets/6e9ccd6f-fbd9-4ba0-9965-68d429455cc1" />
+)
 
 ## 📊 Quick Results
 
@@ -48,10 +49,12 @@ python app.py
 
 ## 📊 Sample Outputs
 
-| Image | Greedy Search | Beam Search |
-|-------|--------------|-------------|
-| ![](images/example1.png) | a group of people walking down a street | a group of people walking down the street |
-| ![](images/example2.png) | a man sitting at a table in a pool | a man is sitting at a table in a pool |
+
+<img width="1308" height="559" alt="result-1" src="https://github.com/user-attachments/assets/c23069f3-760a-4efe-9e48-704cbfb43360" />
+
+<img width="1291" height="586" alt="result-2" src="https://github.com/user-attachments/assets/eae6d62e-d80b-44c9-8958-6a6d5fe20df1" />
+
+
 
 ![Training Curve](images/loss_curve.png)
 
@@ -71,8 +74,9 @@ MIT License - see [LICENSE](LICENSE)
 ## 📧 Contact
 
 **Your Name**
-- LinkedIn: [Profile](YOUR_LINKEDIN)
-- HuggingFace: [Space](YOUR_HUGGINGFACE)
+- LinkedIn: [Profile](https://www.linkedin.com/posts/imran-ali-naeem_genai-deeplearning-pytorch-activity-7428233465952772096-ipMO
+)
+- HuggingFace: [Space](https://huggingface.co/spaces/ImranAliNaeem/image-captioning-seq2seq)
 
 ---
 
