@@ -6,8 +6,7 @@ Generate natural language descriptions for images using Sequence-to-Sequence arc
 
 Try it live: **[HuggingFace Space](https://huggingface.co/spaces/ImranAliNaeem/image-captioning-seq2seq)**
 
-![Demo](<img width="1294" height="541" alt="image" src="https://github.com/user-attachments/assets/6e9ccd6f-fbd9-4ba0-9965-68d429455cc1" />
-)
+
 
 ## 📊 Quick Results
 
